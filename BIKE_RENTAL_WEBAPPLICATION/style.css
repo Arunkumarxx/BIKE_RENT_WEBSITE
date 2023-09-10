@@ -1,0 +1,68 @@
+<style>
+        /* Add your CSS styles here */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+
+        nav ul {
+            list-style: none;
+            background-color: #333;
+            text-align: center;
+            padding: 10px;
+        }
+
+        nav ul li {
+            display: inline;
+            margin-right: 20px;
+        }
+
+        nav ul li a {
+            text-decoration: none;
+            color: #fff;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px;
+        }
+
+        /* Add more styles for bike listings, forms, etc. as needed */
+        .bike-card-container{
+            border-radius: 12px;
+            border: 1px solid #ddd;
+            padding: 10px;
+            margin: 10px;
+            text-align: center;
+        }
+        
+        .bike-card {
+            max-width: 100%;
+            height: auto;
+        }
+        .navs {
+            margin-left: 10px;
+            margin-right:10px;
+        }
+        #about,.ther {
+            text-align: center;
+            padding: 20px;
+            margin:11px;
+            border-radius: 12px;
+            background-color: #f0f0f0;
+        }
+    </style>
